@@ -4,6 +4,8 @@
 
 SafeReady teaches students what to do before, during and after six hazards that matter in Malaysia: floods, fires, earthquakes, landslides, tsunamis and thunderstorms. Students learn from short illustrated lessons, practise with scenario-based exercises, pack a virtual Go-Bag, and watch a weighted preparedness score grow as they earn badges and a Safety Champion certificate. Everything works offline, which matters when a flood takes the network down.
 
+**[⬇ Download the APK](https://github.com/Fayzirahmon/SafeReady/releases/latest)** (Android 7.0 or newer)
+
 <p align="center">
   <img src="docs/screenshots/home.png" width="200" alt="Home tab">
   <img src="docs/screenshots/lesson.png" width="200" alt="Flood lesson">
