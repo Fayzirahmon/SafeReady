@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26L76,34L76,52C76,66 66.5,77.5 54,82C41.5,77.5 32,66 32,52L32,34Z" />
+    <!-- Inner shield -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,31L71.5,37.5L71.5,52C71.5,63.5 64,73 54,77C44,73 36.5,63.5 36.5,52L36.5,37.5Z" />
+    <!-- Tick -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49.5,60.5L42.5,53.5L45.5,50.5L49.5,54.5L62.5,41.5L65.5,44.5Z" />
+</vector>

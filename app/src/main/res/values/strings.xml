@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SafeReady</string>
+    <string name="tagline">Learn it. Practise it. Be ready.</string>
+    <string name="loading">Loading lessons…</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_categories">Disasters</string>
+    <string name="nav_progress">Progress</string>
+    <string name="nav_awards">Awards</string>
+
+    <!-- Options menu -->
+    <string name="menu_emergency">Emergency call 999</string>
+    <string name="menu_profile">Edit profile</string>
+    <string name="menu_share">Share app</string>
+    <string name="menu_reset">Reset progress</string>
+    <string name="menu_about">About</string>
+
+    <!-- Profile -->
+    <string name="profile_title_new">Create your profile</string>
+    <string name="profile_title_edit">Edit profile</string>
+    <string name="profile_intro">Tell us about yourself so we can track your preparedness journey.</string>
+    <string name="profile_choose_avatar">Choose an avatar</string>
+    <string name="hint_name">Full name</string>
+    <string name="hint_school">School</string>
+    <string name="label_form">Form / Grade</string>
+    <string name="save_profile">Save profile</string>
+    <string name="error_name">Please enter your name</string>
+    <string name="error_school">Please enter your school</string>
+    <string name="profile_saved">Profile saved</string>
+
+    <!-- Home -->
+    <string name="home_score_label">Preparedness score</string>
+    <string name="home_quick_actions">Quick actions</string>
+    <string name="home_action_learn">Start learning</string>
+    <string name="home_action_kit">Go-Bag checklist</string>
+    <string name="home_action_progress">My progress</string>
+    <string name="home_action_call">Emergency 999</string>
+    <string name="home_tip_title">Safety tip of the day</string>
+
+    <!-- Categories -->
+    <string name="categories_title">Choose a disaster</string>
+    <string name="categories_subtitle">Tap a disaster to read the lesson and try its safety exercise.</string>
+
+    <!-- Lesson -->
+    <string name="lesson_watch_video">Watch video</string>
+    <string name="lesson_read_more">Official guide</string>
+    <string name="lesson_mark_complete">Mark lesson as learned</string>
+    <string name="lesson_completed">Lesson learned ✓</string>
+    <string name="lesson_start_quiz">Start safety exercise</string>
+    <string name="lesson_safety_tips">Safety actions</string>
+    <string name="before">Before</string>
+    <string name="during">During</string>
+    <string name="after">After</string>
+
+    <!-- Quiz -->
+    <string name="quiz_next">Next question</string>
+    <string name="quiz_finish">See my result</string>
+    <string name="quiz_correct">Correct!</string>
+    <string name="quiz_wrong">Not quite.</string>
+    <string name="quiz_leave_title">Leave the exercise?</string>
+    <string name="quiz_leave_message">Your answers for this attempt will not be saved.</string>
+    <string name="quiz_leave">Leave</string>
+    <string name="quiz_stay">Stay</string>
+
+    <!-- Result -->
+    <string name="result_retry">Try again</string>
+    <string name="result_home">Back to home</string>
+    <string name="result_share">Share result</string>
+    <string name="result_new_badge">New badge unlocked!</string>
+
+    <!-- Kit -->
+    <string name="kit_title">Go-Bag checklist</string>
+    <string name="kit_intro">Pack an emergency bag at home. Tick each item once it is really in your bag.</string>
+
+    <!-- Progress -->
+    <string name="progress_title">Preparedness score analysis</string>
+    <string name="progress_quiz">Exercise knowledge (60%)</string>
+    <string name="progress_lessons">Lessons learned (20%)</string>
+    <string name="progress_kit">Go-Bag ready (20%)</string>
+    <string name="progress_by_category">By disaster</string>
+    <string name="progress_advice_title">What to work on next</string>
+
+    <!-- Awards -->
+    <string name="awards_title">Safety Champion awards</string>
+    <string name="awards_champion_locked">Reach a preparedness score of 80 to become a Safety Champion.</string>
+    <string name="awards_share_certificate">Share certificate</string>
+    <string name="awards_badges">Badges</string>
+
+    <!-- Dialogs -->
+    <string name="reset_title">Reset all progress?</string>
+    <string name="reset_message">This clears your exercise scores, lessons and checklist. Your profile is kept.</string>
+    <string name="reset">Reset</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="about_title">About SafeReady</string>
+    <string name="about_message">SafeReady is a disaster preparedness e-learning app for high school students.\n\nSafety content is based on the FEMA Ready.gov youth preparedness curriculum. In an emergency always follow instructions from local authorities.\n\nSWE401 Programming Elective II assignment.</string>
+    <string name="progress_reset_done">Progress reset</string>
+    <string name="no_app_found">No app found to open this</string>
+    <string name="share_app_text">I am learning how to stay safe in floods, fires and earthquakes with the SafeReady app. Be prepared too!</string>
+    <string name="share_chooser">Share with</string>
+    <string name="cd_illustration">Illustration of %1$s</string>
+    <string name="cd_avatar">Your avatar</string>
+</resources>

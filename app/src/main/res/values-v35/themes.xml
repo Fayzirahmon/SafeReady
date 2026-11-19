@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 15+ forces edge-to-edge, which put the toolbar title under the status bar -->
+    <style name="Theme.SafeReady" parent="Base.Theme.SafeReady">
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+</resources>

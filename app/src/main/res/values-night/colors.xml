@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark mode palette: Android switches to these automatically when the phone is in dark theme -->
+    <color name="primary">#2E8FB3</color>
+    <color name="primary_dark">#0B3646</color>
+    <color name="primary_container">#173E4C</color>
+    <color name="secondary">#FFB74D</color>
+    <color name="secondary_container">#4A3A1E</color>
+    <color name="emergency">#EF5350</color>
+    <color name="success">#66BB6A</color>
+    <color name="success_container">#1E3A22</color>
+    <color name="error_container">#4A2224</color>
+    <color name="background">#0E1418</color>
+    <color name="surface">#182127</color>
+    <color name="text_primary">#E7EEF2</color>
+    <color name="text_secondary">#A8B5BD</color>
+    <color name="divider">#2B3940</color>
+</resources>
